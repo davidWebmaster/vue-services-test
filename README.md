@@ -1,5 +1,7 @@
 # vue-services-test
 
+> Esse projeto é uma proposta sobre o uso de serviços para consumir API com axios no VueJS. Observar arquivos dentro da pasta `services`
+
 ## Project setup
 ```
 npm install
